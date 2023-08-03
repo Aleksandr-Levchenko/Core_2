@@ -1,7 +1,7 @@
 def mult(a, b):
     return a * b
 
-def substraction(a, b):
+def substraction(a, b): # substraction
     return a - b
 
 
